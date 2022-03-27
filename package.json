@@ -1,0 +1,29 @@
+{
+  "name": "stardew-checkup",
+  "version": "1.0.0",
+  "description": "## About Stardew Checkup",
+  "main": "stardew-checkup.js",
+  "scripts": {
+    "start": "parcel public/index.html",
+    "build": "parcel build public/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thesilhouettes/stardew-checkup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thesilhouettes/stardew-checkup/issues"
+  },
+  "homepage": "https://github.com/thesilhouettes/stardew-checkup#readme",
+  "devDependencies": {
+    "parcel": "^2.4.0"
+  },
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "js-cookie": "^3.0.1",
+    "semver-compare": "^1.0.0"
+  }
+}
